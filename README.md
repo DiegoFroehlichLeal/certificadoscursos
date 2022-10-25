@@ -4,8 +4,6 @@
 <br>
 <img src=https://user-images.githubusercontent.com/44949358/75632166-3183b480-5bd8-11ea-8a76-3938bcdb14a0.png>
 
-<a href="https://cursos.alura.com.br/certificate/e340e18a-d84d-43dd-b501-410fea13e347"></a>
-
 
 
 
